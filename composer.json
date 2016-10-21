@@ -1,0 +1,10 @@
+{
+    "name"       : "jasonagnew/wp-multisite-media-library-sync",
+    "description": "Keeps the media library in sync across a muiltsite but doesn't copy the files.",
+    "homepage"   : "https://github.com/jasonagnew/wp-multisite-media-library-sync",
+    "type"       : "wordpress-plugin",
+    "license"    : "MIT",
+    "require"    : {
+        "composer/installers": "~1.0"
+    }
+}
